@@ -1,5 +1,5 @@
 [![Build Status](https://travis-ci.com/linksplatform/Diagnostics.svg?branch=master)](https://travis-ci.com/linksplatform/Diagnostics)
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/f095ae6c0742405399a34ad50ec6ab8d)](https://app.codacy.com/app/drakonard/Diagnostics?utm_source=github.com&utm_medium=referral&utm_content=linksplatform/Diagnostics&utm_campaign=Badge_Grade_Dashboard)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/0c155a921c57417586b079e2affcdf51)](https://www.codacy.com/app/drakonard/Diagnostics?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=linksplatform/Diagnostics&amp;utm_campaign=Badge_Grade)
 [![CodeFactor](https://www.codefactor.io/repository/github/linksplatform/Diagnostics/badge)](https://www.codefactor.io/repository/github/linksplatform/Diagnostics)
 
 # [Diagnostics](https://github.com/linksplatform/Diagnostics)
