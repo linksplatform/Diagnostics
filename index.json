@@ -1,9 +1,4 @@
 {
-  "api/Platform.Diagnostics.Performance.html": {
-    "href": "api/Platform.Diagnostics.Performance.html",
-    "title": "Class Performance | LinksPlatform's Platform.Diagnostics Library",
-    "keywords": "Class Performance Inheritance Object Performance Inherited Members Object.Equals(Object) Object.Equals(Object, Object) Object.GetHashCode() Object.GetType() Object.MemberwiseClone() Object.ReferenceEquals(Object, Object) Object.ToString() Namespace : Platform.Diagnostics Assembly : Platform.Diagnostics.dll Syntax public static class Performance Methods | Improve this Doc View Source Measure(Action) Declaration public static TimeSpan Measure(Action action) Parameters Type Name Description Action action Returns Type Description TimeSpan"
-  },
   "README.html": {
     "href": "README.html",
     "title": "Diagnostics | LinksPlatform's Platform.Diagnostics Library",
@@ -13,5 +8,10 @@
     "href": "api/Platform.Diagnostics.html",
     "title": "Namespace Platform.Diagnostics | LinksPlatform's Platform.Diagnostics Library",
     "keywords": "Namespace Platform.Diagnostics Classes Performance"
+  },
+  "api/Platform.Diagnostics.Performance.html": {
+    "href": "api/Platform.Diagnostics.Performance.html",
+    "title": "Class Performance | LinksPlatform's Platform.Diagnostics Library",
+    "keywords": "Class Performance Inheritance Object Performance Inherited Members Object.Equals(Object) Object.Equals(Object, Object) Object.GetHashCode() Object.GetType() Object.MemberwiseClone() Object.ReferenceEquals(Object, Object) Object.ToString() Namespace : Platform.Diagnostics Assembly : Platform.Diagnostics.dll Syntax public static class Performance Methods | Improve this Doc View Source Measure(Action) Declaration public static TimeSpan Measure(Action action) Parameters Type Name Description Action action Returns Type Description TimeSpan"
   }
 }
