@@ -1,13 +1,13 @@
 {
-  "README.html": {
-    "href": "README.html",
-    "title": "Diagnostics | LinksPlatform's Platform.Diagnostics Library",
-    "keywords": "Diagnostics LinksPlatform's Platform.Diagnostics Class Library. Namespace: Platform.Diagnostics Forked from: LinksPlatform/Helpers/Diagnostics NuGet package: Platform.Diagnostics Documentation PDF file with code for e-readers. Mystery files .travis.yml - Travis CI build configuration. docfx.json and toc.yml - DocFX build configuration. format-document.sh - script for formatting tex file for generating PDF from it. format-csharp-files.py - script for formatting .cs files as a part of tex file. generate-pdf.sh - script that generates PDF with code for e-readers. publish-docs.sh - script that publishes generated documentation and PDF with code for e-readers to gh-pages branch. push-nuget.bat - Windows script for publishing current version of NuGet package."
-  },
   "api/Platform.Diagnostics.Performance.html": {
     "href": "api/Platform.Diagnostics.Performance.html",
     "title": "Class Performance | LinksPlatform's Platform.Diagnostics Library",
     "keywords": "Class Performance Provides a set of methods for performance measurement. Предоставляет набор методов для замера производительности. Inheritance Object Performance Inherited Members Object.Equals(Object) Object.Equals(Object, Object) Object.GetHashCode() Object.GetType() Object.MemberwiseClone() Object.ReferenceEquals(Object, Object) Object.ToString() Namespace : Platform.Diagnostics Assembly : Platform.Diagnostics.dll Syntax public static class Performance Methods | Improve this Doc View Source Measure(Action) Measures the time it takes to execute the action by executing it and using Stopwatch . Измеряет время, которое занимает выполнение действия, выполняя его и используя Stopwatch . Declaration public static TimeSpan Measure(Action action) Parameters Type Name Description Action action The Action delegate. Делегат Action . Returns Type Description TimeSpan The time interval representing the time it took to execute the action. Временной интервал, представляющий время, которое потребовалось для выполнения действия."
+  },
+  "README.html": {
+    "href": "README.html",
+    "title": "Diagnostics | LinksPlatform's Platform.Diagnostics Library",
+    "keywords": "Diagnostics LinksPlatform's Platform.Diagnostics Class Library. Namespace: Platform.Diagnostics Forked from: LinksPlatform/Helpers/Diagnostics NuGet package: Platform.Diagnostics Documentation PDF file with code for e-readers. Mystery files .travis.yml - Travis CI build configuration. docfx.json and toc.yml - DocFX build configuration. format-document.sh - script for formatting tex file for generating PDF from it. format-csharp-files.py - script for formatting .cs files as a part of tex file. generate-pdf.sh - script that generates PDF with code for e-readers. publish-docs.sh - script that publishes generated documentation and PDF with code for e-readers to gh-pages branch. push-nuget.bat - Windows script for publishing current version of NuGet package."
   },
   "api/Platform.Diagnostics.html": {
     "href": "api/Platform.Diagnostics.html",
