@@ -1,9 +1,4 @@
 {
-  "api/Platform.Diagnostics.html": {
-    "href": "api/Platform.Diagnostics.html",
-    "title": "Namespace Platform.Diagnostics | LinksPlatform's Platform.Diagnostics Library",
-    "keywords": "Namespace Platform.Diagnostics Classes Performance Provides a set of methods for performance measurement. Предоставляет набор методов для замера производительности."
-  },
   "README.html": {
     "href": "README.html",
     "title": "Diagnostics | LinksPlatform's Platform.Diagnostics Library",
@@ -13,5 +8,10 @@
     "href": "api/Platform.Diagnostics.Performance.html",
     "title": "Class Performance | LinksPlatform's Platform.Diagnostics Library",
     "keywords": "Class Performance Provides a set of methods for performance measurement. Предоставляет набор методов для замера производительности. Inheritance Object Performance Inherited Members Object.Equals(Object) Object.Equals(Object, Object) Object.GetHashCode() Object.GetType() Object.MemberwiseClone() Object.ReferenceEquals(Object, Object) Object.ToString() Namespace : Platform.Diagnostics Assembly : Platform.Diagnostics.dll Syntax public static class Performance Methods | Improve this Doc View Source Measure(Action) Measures the time it takes to execute the action by executing it and using Stopwatch . Измеряет время, которое занимает выполнение действия, выполняя его и используя Stopwatch . Declaration public static TimeSpan Measure(Action action) Parameters Type Name Description Action action The Action delegate. Делегат Action . Returns Type Description TimeSpan The time interval representing the time it took to execute the action. Временной интервал, представляющий время, которое потребовалось для выполнения действия."
+  },
+  "api/Platform.Diagnostics.html": {
+    "href": "api/Platform.Diagnostics.html",
+    "title": "Namespace Platform.Diagnostics | LinksPlatform's Platform.Diagnostics Library",
+    "keywords": "Namespace Platform.Diagnostics Classes Performance Provides a set of methods for performance measurement. Предоставляет набор методов для замера производительности."
   }
 }
