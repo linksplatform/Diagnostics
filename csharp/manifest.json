@@ -18,7 +18,7 @@
       "output": {
         ".html": {
           "relative_path": "README.html",
-          "hash": "NEGa3DP1E0EIk5bbdf6NYA=="
+          "hash": "J9Vu2I1IloyHdT8Mp7+4sw=="
         }
       },
       "is_incremental": false,
@@ -30,7 +30,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Platform.Diagnostics.Performance.html",
-          "hash": "Hop2PRElH6h8WX/KzpT/zg=="
+          "hash": "cjTmnPI4r7ZvoD1XVpzPkQ=="
         }
       },
       "is_incremental": false,
@@ -42,7 +42,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Platform.Diagnostics.html",
-          "hash": "mTY3C/DPrMAxF/6I42GhdA=="
+          "hash": "p9NdRs2xWVEWD72VvQ1m1A=="
         }
       },
       "is_incremental": false,
