@@ -18,43 +18,7 @@
       "output": {
         ".html": {
           "relative_path": "README.html",
-          "hash": "J9Vu2I1IloyHdT8Mp7+4sw=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "obj/api/Platform.Diagnostics.Performance.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/Platform.Diagnostics.Performance.html",
-          "hash": "cjTmnPI4r7ZvoD1XVpzPkQ=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "obj/api/Platform.Diagnostics.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/Platform.Diagnostics.html",
-          "hash": "p9NdRs2xWVEWD72VvQ1m1A=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Toc",
-      "source_relative_path": "obj/api/toc.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/toc.html",
-          "hash": "+g+pXGn1mpBERfms6CoCzg=="
+          "hash": "dqM6kUdFxypRTeZCmvGr+Q=="
         }
       },
       "is_incremental": false,
@@ -69,7 +33,7 @@
       "output": {
         ".html": {
           "relative_path": "toc.html",
-          "hash": "h8WsvgX5kwyVQYjwkKZoFw=="
+          "hash": "ljACcZsIZsmcqh76/Q1JaA=="
         }
       },
       "is_incremental": false,
@@ -91,12 +55,6 @@
           "can_incremental": false,
           "incrementalPhase": "build",
           "total_file_count": 1,
-          "skipped_file_count": 0
-        },
-        "ManagedReferenceDocumentProcessor": {
-          "can_incremental": false,
-          "incrementalPhase": "build",
-          "total_file_count": 2,
           "skipped_file_count": 0
         },
         "TocDocumentProcessor": {
