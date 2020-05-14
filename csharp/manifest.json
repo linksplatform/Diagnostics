@@ -18,7 +18,43 @@
       "output": {
         ".html": {
           "relative_path": "README.html",
-          "hash": "dqM6kUdFxypRTeZCmvGr+Q=="
+          "hash": "4oNdADYoNG4aCS8CjrIlZg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Platform.Diagnostics.Performance.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Platform.Diagnostics.Performance.html",
+          "hash": "7HAQvMN6JB7XjAF9WUbuNA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Platform.Diagnostics.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Platform.Diagnostics.html",
+          "hash": "p9NdRs2xWVEWD72VvQ1m1A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "obj/api/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/toc.html",
+          "hash": "+g+pXGn1mpBERfms6CoCzg=="
         }
       },
       "is_incremental": false,
@@ -33,7 +69,7 @@
       "output": {
         ".html": {
           "relative_path": "toc.html",
-          "hash": "ljACcZsIZsmcqh76/Q1JaA=="
+          "hash": "h8WsvgX5kwyVQYjwkKZoFw=="
         }
       },
       "is_incremental": false,
@@ -55,6 +91,12 @@
           "can_incremental": false,
           "incrementalPhase": "build",
           "total_file_count": 1,
+          "skipped_file_count": 0
+        },
+        "ManagedReferenceDocumentProcessor": {
+          "can_incremental": false,
+          "incrementalPhase": "build",
+          "total_file_count": 2,
           "skipped_file_count": 0
         },
         "TocDocumentProcessor": {
