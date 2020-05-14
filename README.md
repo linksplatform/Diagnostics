@@ -7,11 +7,11 @@
 
 LinksPlatform's Platform.Diagnostics Class Library.
 
-Namespace: [Platform.Diagnostics](https://linksplatform.github.io/Diagnostics/api/Platform.Diagnostics.html)
+Namespace: [Platform.Diagnostics](https://linksplatform.github.io/Diagnostics/csharp/api/Platform.Diagnostics.html)
 
 Forked from: [LinksPlatform/Helpers/Diagnostics](https://github.com/linksplatform/Helpers/tree/e27f7586f8015cad596b6aa3c2df2ac2a3dadb60/Diagnostics)
 
 NuGet package: [Platform.Diagnostics](https://www.nuget.org/packages/Platform.Diagnostics)
 
 ## [Documentation](https://linksplatform.github.io/Diagnostics)
-[PDF file](https://linksplatform.github.io/Diagnostics/Platform.Diagnostics.pdf) with code for e-readers.
+[PDF file](https://linksplatform.github.io/Diagnostics/csharp/Platform.Diagnostics.pdf) with code for e-readers.
