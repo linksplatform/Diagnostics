@@ -3,20 +3,8 @@ using Xunit;
 
 namespace Platform.Diagnostics.Tests
 {
-    /// <summary>
-    /// <para>
-    /// Represents the performance tests.
-    /// </para>
-    /// <para></para>
-    /// </summary>
     public class PerformanceTests
     {
-        /// <summary>
-        /// <para>
-        /// Tests that measure test.
-        /// </para>
-        /// <para></para>
-        /// </summary>
         [Fact]
         public void MeasureTest()
         {
