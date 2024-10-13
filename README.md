@@ -1,4 +1,4 @@
-[![NuGet Version and Downloads count](https://buildstats.info/nuget/Platform.Diagnostics)](https://www.nuget.org/packages/Platform.Diagnostics)
+[![NuGet Version and Downloads count](https://img.shields.io/nuget/v/Platform.Diagnostics?label=nuget&style=flat)](https://www.nuget.org/packages/Platform.Diagnostics)
 [![Actions Status](https://github.com/linksplatform/Diagnostics/workflows/CD/badge.svg)](https://github.com/linksplatform/Diagnostics/actions?workflow=CD)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/0c155a921c57417586b079e2affcdf51)](https://www.codacy.com/app/drakonard/Diagnostics?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=linksplatform/Diagnostics&amp;utm_campaign=Badge_Grade)
 [![CodeFactor](https://www.codefactor.io/repository/github/linksplatform/Diagnostics/badge)](https://www.codefactor.io/repository/github/linksplatform/Diagnostics)
